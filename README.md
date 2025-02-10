@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @davidolufemi
-- 👀 I’m interested in software development (full stack)
-- 🌱 I’m currently learning Python and C
-- 💞️ I’m looking to collaborate on projects 
+- Currently learning DevSecOps and cloud Engineering
 - 📫 How to reach me 978479053
 
 <!---
