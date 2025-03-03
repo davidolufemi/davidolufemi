@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidolufemi
-- Currently learning DevSecOps and cloud Engineering
+- I am an App Sec Engineer
 - 📫 How to reach me 978479053
 
 <!---
