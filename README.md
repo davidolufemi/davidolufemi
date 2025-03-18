@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidolufemi
-- I am an App Sec Engineer
+- I am an App Sec | Product Security | DevSecOps Engineer
 - 📫 How to reach me 978479053
 
 <!---
